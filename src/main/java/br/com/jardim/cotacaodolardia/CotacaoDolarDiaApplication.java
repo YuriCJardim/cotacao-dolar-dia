@@ -1,4 +1,4 @@
-package com.jardim.cotacaodolardia;
+package br.com.jardim.cotacaodolardia;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
